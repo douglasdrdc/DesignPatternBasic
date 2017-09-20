@@ -1,0 +1,2 @@
+D:\ProjetosGit\PatternsProject\PatternsProject\bin\Debug\PatternsProject.exe.config
+D:\ProjetosGit\PatternsProject\bin\Debug\PatternsProject.exe.config
